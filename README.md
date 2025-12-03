@@ -7,7 +7,7 @@
 
 ### 🏠 Home Page
 ![Home Page](screenshots/home.jpg)
-![Home Page](screenshots/home1.jpg)
+![Home Page](screenshots/home2.jpg)
 
 ### ➕ Add Product Page
 ![Add Product Page](screenshots/add-product.jpg)
